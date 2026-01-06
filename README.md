@@ -7,13 +7,19 @@ Skilled in Python, PHP, and SQL with a track record of scaling systems and impro
 infrastructure decisions, growing teams, adopting agile practices, and delivering products that benefit sports fans like me.
 Passionate about teamwork and believe great products come from strong communication and planning.
 
-🏈 Highlights from my time at RotoWire:
+🏆 Biggest Project Deliveries at RotoWire
+
+2025 full [website rebrand](https://www.rotowire.com/football/article/rotowire-website-redesign-fantasy-football-app-launch-94001) including new logo, home pages, fonts etc.
+
+2025 launch of [Football Draft Kit](https://www.rotowire.com/article/2025-rotowire-football-app-whats-new-setting-up-your-draft-best-practices-95153), a cross platform draft assistant app to help our users make the best picks when drafting.
+
+2024 launch of the [Picks product](https://www.rotowire.com/picks/) and [mobile apps](https://www.rotowire.com/apps/) that track player props across sites like PrizePicks, Sleeper, Underdog and more.
+
+🏈 Development Highlights at RotoWire
 
 Built the [My Leagues](https://www.rotowire.com/myleagues/) product that allows users to get league specific advice by importing their teams from platforms like ESPN, Sleeper, Yahoo and more.
 
 Built an odds aggregation system tracking lines across all major U.S. sportsbooks across 10+ sports including [NFL](https://www.rotowire.com/betting/nfl/odds) and [NBA](https://www.rotowire.com/betting/nba/odds). 
-
-Contributed to the launch of our [Picks product](https://www.rotowire.com/picks/) and [mobile apps](https://www.rotowire.com/apps/) that track player props across sites like PrizePicks, Sleeper, and Underdog.
 
 Overhauled projection models for the [NFL](https://www.rotowire.com/football/projections-weekly.php), [NBA](https://www.rotowire.com/basketball/projections.php?type=today), [Soccer](https://www.rotowire.com/soccer/projections.php), and more, significantly increasing data accuracy for fantasy players. 
 
