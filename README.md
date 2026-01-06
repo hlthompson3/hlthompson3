@@ -1,6 +1,6 @@
 Harry Thompson | Lead Developer
 
-Building high-scale systems for sports fans like me. 📍 Madison, WI
+Building high-scale systems for sports fans like me in Madison, WI 🧀
 
 Developer and team lead with 9+ years of experience building tools and apps in the fantasy sports and online gaming industry.
 Skilled in Python, PHP, and SQL with a track record of scaling systems and improving performance. Experienced in guiding
@@ -27,7 +27,7 @@ Designed and maintained RotoWire's B2B API utilized by industry leaders includin
 
 🤝 Leadership & Strategy
 
-Team Growth: Scaled a Madison-based team to include 12+ developers, including remote talent and dedicated QA roles.
+Team Growth: Scaled a Madison-based team to include remote talent and dedicated QA roles, now managing a team of 8.
 
 Agile Transformation: Drove the transition to Scrum/Agile via JIRA, implementing sprint planning and clear acceptance criteria to increase velocity.
 
