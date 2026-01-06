@@ -11,7 +11,7 @@ Passionate about teamwork and believe great products come from strong communicat
 
 2025 full [website rebrand](https://www.rotowire.com/football/article/rotowire-website-redesign-fantasy-football-app-launch-94001) including new logo, home pages, fonts etc.
 
-2025 launch of [Football Draft Kit](https://www.rotowire.com/article/2025-rotowire-football-app-whats-new-setting-up-your-draft-best-practices-95153), a cross platform draft assistant app to help our users make the best picks when drafting.
+2025 launch of the [Football Draft Kit](https://www.rotowire.com/article/2025-rotowire-football-app-whats-new-setting-up-your-draft-best-practices-95153), a cross platform draft assistant app to help our users make the best picks when drafting.
 
 2024 launch of the [Picks product](https://www.rotowire.com/picks/) and [mobile apps](https://www.rotowire.com/apps/) that track player props across sites like PrizePicks, Sleeper, Underdog and more.
 
