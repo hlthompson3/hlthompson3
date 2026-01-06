@@ -40,4 +40,5 @@ Languages: Python, PHP, SQL Server, JavaScript.
 Practices: Agile, Scrum, SOC Compliance, Infrastructure Migration.
 
 ✏️ Education
+
 B.S. in Computer Science & Mathematics – University of Wisconsin-Madison
