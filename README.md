@@ -2,7 +2,7 @@ Harry Thompson | Lead Developer
 
 Building high-scale systems for sports fans like me in Madison, WI 🧀
 
-Developer and team lead with 9+ years of experience building tools and apps in the fantasy sports and online gaming industry.
+Developer and team lead with 10+ years of experience building tools and apps in the fantasy sports and online gaming industry.
 Skilled in Python, PHP, and SQL with a track record of scaling systems and improving performance. Experienced in guiding
 infrastructure decisions, growing teams, adopting agile practices, and delivering products that benefit sports fans like me.
 Passionate about teamwork and believe great products come from strong communication and planning.
